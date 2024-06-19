@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
-	"github.com/simonfrey/jsonl"
+	"github.com/atij/jsonl"
 	"strings"
 	"testing"
 )
